@@ -16,4 +16,3 @@ if not app_status.healthy and counter > 5:
     app.run(host)
 
 
-
